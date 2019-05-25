@@ -113,7 +113,7 @@ bool Pid::init(const ros::NodeHandle &node, const bool quiet)
   if (!nh.getParam("p", gains.p_gain_))
   {
     if (!quiet) {
-      ROS_ERROR("No p gain specified for pid.  Namespace: %s", nh.getNamespace().c_str());
+      ROS_INFO("No p gain specified for pid. Namespace: %s. Using SetAngle from Joints.", nh.getNamespace().c_str());
     }
     return false;
   }
