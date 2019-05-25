@@ -4,7 +4,7 @@ control_toolbox
 See [ros_control](http://wiki.ros.org/ros_control) and [control_toolbox](http://wiki.ros.org/control_toolbox) documentation on ros.org
 
 
-NOTE: This is a tweaked version of origin [control_toolbox](https://github.com/ros-controls/control_toolbox) package for the purpose of use in Catvehicle testbed.
+_NOTE:_ *This is a tweaked version of origin* [control_toolbox](https://github.com/ros-controls/control_toolbox) *package for the purpose of use in Catvehicle testbed.*
 
 ### Build Status
 
@@ -30,4 +30,4 @@ URL = {http://www.theoj.org/joss-papers/joss.00456/10.21105.joss.00456.pdf}
 ```
 
 
-###### _Last Updated By: [Rahul Bhadani](mailto: rahulbhadani@email.arizona.edu)
+###### _Last Updated By: [Rahul Bhadani](mailto: rahulbhadani@email.arizona.edu)_
