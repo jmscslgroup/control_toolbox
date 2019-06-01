@@ -30,4 +30,4 @@ URL = {http://www.theoj.org/joss-papers/joss.00456/10.21105.joss.00456.pdf}
 ```
 
 
-###### Last Updated By: [Rahul Bhadani](rahulbhadani@email.arizona.edu)
+###### Last Updated By: Rahul Bhadani (rahulbhadani@email.arizona.edu)
